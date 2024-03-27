@@ -1,0 +1,11 @@
+﻿  Number.cpp
+C:\Users\cotel\source\repos\Lab5\Number.cpp(94,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cotel\source\repos\Lab5\Number.cpp(106,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cotel\source\repos\Lab5\Number.cpp(118,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating code
+  2 of 23 functions ( 8.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab5.vcxproj -> C:\Users\cotel\source\repos\Lab5\x64\Release\Lab5.exe

@@ -1,0 +1,8 @@
+﻿  Lab7-1.cpp
+C:\Users\cotel\source\repos\Lab7-1\temperature_literals.h(14,32): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  (compiling source file 'Lab7-1.cpp')
+  
+C:\Users\cotel\source\repos\Lab7-1\temperature_literals.h(18,36): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  (compiling source file 'Lab7-1.cpp')
+  
+  Lab7-1.vcxproj -> C:\Users\cotel\source\repos\Lab7-1\x64\Debug\Lab7-1.exe
